@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-19T16:08:04 IST" name="Default suite" finished-at="2022-06-19T16:09:32 IST" duration-ms="87329">
+    <groups>
+    </groups>
+    <test started-at="2022-06-19T16:08:04 IST" name="Default test" finished-at="2022-06-19T16:09:32 IST" duration-ms="87329">
+      <class name="capstone.Testngcapstone">
+        <test-method is-config="true" signature="setup()[pri:0, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:01 IST" name="setup" finished-at="2022-06-19T16:08:04 IST" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:1, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:04 IST" name="test1" finished-at="2022-06-19T16:08:11 IST" duration-ms="6824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:11 IST" name="test2" finished-at="2022-06-19T16:08:16 IST" duration-ms="5273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:16 IST" name="test3" finished-at="2022-06-19T16:08:20 IST" duration-ms="3644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:20 IST" name="test4" finished-at="2022-06-19T16:08:24 IST" duration-ms="4018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:24 IST" name="test5" finished-at="2022-06-19T16:08:30 IST" duration-ms="5891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:6, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:30 IST" name="test6" finished-at="2022-06-19T16:08:34 IST" duration-ms="4174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:7, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:34 IST" name="test7" finished-at="2022-06-19T16:08:40 IST" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:8, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:40 IST" name="test8" finished-at="2022-06-19T16:08:44 IST" duration-ms="4465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:9, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:44 IST" name="test9" finished-at="2022-06-19T16:08:53 IST" duration-ms="8447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method signature="test10()[pri:10, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:08:53 IST" name="test10" finished-at="2022-06-19T16:09:03 IST" duration-ms="10321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:11, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:09:03 IST" name="test11" finished-at="2022-06-19T16:09:11 IST" duration-ms="8332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:12, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:09:11 IST" name="test12" finished-at="2022-06-19T16:09:19 IST" duration-ms="7292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test13()[pri:13, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:09:19 IST" name="test13" finished-at="2022-06-19T16:09:32 IST" duration-ms="13029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method is-config="true" signature="windup()[pri:0, instance:capstone.Testngcapstone@dd8ba08]" started-at="2022-06-19T16:09:32 IST" name="windup" finished-at="2022-06-19T16:09:32 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windup -->
+      </class> <!-- capstone.Testngcapstone -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
